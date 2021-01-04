@@ -5,3 +5,5 @@
 
 This repo contains all of the notes taken by [ Sebastien Perot-Morin ](https://github.com/perigon99) for the [lighthouse Labs](https://www.lighthouselabs.ca/) Dev bootcamp.
 
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
